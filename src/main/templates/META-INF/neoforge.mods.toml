@@ -1,0 +1,30 @@
+modLoader="javafml"
+loaderVersion="[4,)"
+license="${mod_license}"
+
+[[mods]]
+modId="${mod_id}"
+version="${mod_version}"
+displayName="${mod_name}"
+authors="Mihail Maloman"
+description='''
+Minimalist, tick-less tech block. Items inserted into the Void Recycler are destroyed instantly and
+converted into Resonance Points; the points can be spent to fabricate any item priced in the
+data-driven fabrication map, on demand, by hand or by pipes. Zero TPS impact by design.
+'''
+logoFile = "logo.png"
+
+
+[[dependencies.${mod_id}]]
+    modId="neoforge"
+    type="required"
+    versionRange="[${neo_version},)"
+    ordering="NONE"
+    side="BOTH"
+
+[[dependencies.${mod_id}]]
+    modId="minecraft"
+    type="required"
+    versionRange="${minecraft_version_range}"
+    ordering="NONE"
+    side="BOTH"

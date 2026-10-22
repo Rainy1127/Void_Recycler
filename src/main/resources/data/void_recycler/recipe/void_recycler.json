@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": "minecraft:obsidian",
+    "P": "minecraft:ender_pearl",
+    "D": "minecraft:diamond",
+    "H": "minecraft:hopper"
+  },
+  "pattern": [
+    "OPO",
+    "DHD",
+    "OOO"
+  ],
+  "result": {
+    "id": "void_recycler:void_recycler",
+    "count": 1
+  }
+}

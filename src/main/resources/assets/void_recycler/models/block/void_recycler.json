@@ -1,0 +1,8 @@
+{
+  "parent": "minecraft:block/cube_bottom_top",
+  "textures": {
+    "top": "void_recycler:block/void_recycler_top",
+    "side": "void_recycler:block/void_recycler_side",
+    "bottom": "void_recycler:block/void_recycler_bottom"
+  }
+}

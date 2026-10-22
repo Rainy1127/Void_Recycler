@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "void_recycler:block/void_recycler"
+    }
+  }
+}

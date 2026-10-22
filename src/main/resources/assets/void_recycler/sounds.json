@@ -1,0 +1,24 @@
+{
+  "recycle": {
+    "subtitle": "subtitles.void_recycler.recycle",
+    "sounds": [
+      {
+        "name": "minecraft:entity.enderman.teleport",
+        "type": "event",
+        "volume": 0.35,
+        "pitch": 0.55
+      }
+    ]
+  },
+  "fabricate": {
+    "subtitle": "subtitles.void_recycler.fabricate",
+    "sounds": [
+      {
+        "name": "minecraft:block.amethyst_block.resonate",
+        "type": "event",
+        "volume": 0.6,
+        "pitch": 1.4
+      }
+    ]
+  }
+}

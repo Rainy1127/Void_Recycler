@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "A": "minecraft:amethyst_shard",
+    "R": "minecraft:redstone",
+    "D": "minecraft:diamond"
+  },
+  "pattern": [
+    "ARA",
+    "RDR",
+    "ARA"
+  ],
+  "result": {
+    "id": "void_recycler:resonance_amplifier",
+    "count": 1
+  }
+}

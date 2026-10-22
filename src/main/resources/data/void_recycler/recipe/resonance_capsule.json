@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "key": {
+    "O": "minecraft:obsidian",
+    "P": "minecraft:ender_pearl"
+  },
+  "pattern": [
+    " O ",
+    "OPO",
+    " O "
+  ],
+  "result": {
+    "id": "void_recycler:resonance_capsule",
+    "count": 1
+  }
+}

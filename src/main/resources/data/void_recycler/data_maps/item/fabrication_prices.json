@@ -1,0 +1,40 @@
+{
+  "values": {
+    "minecraft:coal": {
+      "cost": 60
+    },
+    "minecraft:copper_ingot": {
+      "cost": 80
+    },
+    "minecraft:iron_ingot": {
+      "cost": 200
+    },
+    "minecraft:gold_ingot": {
+      "cost": 300
+    },
+    "minecraft:redstone": {
+      "cost": 40
+    },
+    "minecraft:lapis_lazuli": {
+      "cost": 40
+    },
+    "minecraft:quartz": {
+      "cost": 100
+    },
+    "minecraft:diamond": {
+      "cost": 5000
+    },
+    "minecraft:emerald": {
+      "cost": 3000
+    },
+    "minecraft:ender_pearl": {
+      "cost": 1500
+    },
+    "minecraft:blaze_rod": {
+      "cost": 800
+    },
+    "minecraft:netherite_ingot": {
+      "cost": 60000
+    }
+  }
+}

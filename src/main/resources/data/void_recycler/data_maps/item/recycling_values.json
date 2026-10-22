@@ -1,0 +1,76 @@
+{
+  "values": {
+    "#minecraft:planks": {
+      "points": 1
+    },
+    "#minecraft:logs": {
+      "points": 4
+    },
+    "#minecraft:sand": {
+      "points": 1
+    },
+    "minecraft:dirt": {
+      "points": 1
+    },
+    "minecraft:cobblestone": {
+      "points": 1
+    },
+    "minecraft:stone": {
+      "points": 2
+    },
+    "minecraft:cobbled_deepslate": {
+      "points": 2
+    },
+    "minecraft:gravel": {
+      "points": 1
+    },
+    "minecraft:netherrack": {
+      "points": 1
+    },
+    "minecraft:coal": {
+      "points": 30
+    },
+    "minecraft:raw_copper": {
+      "points": 25
+    },
+    "minecraft:copper_ingot": {
+      "points": 40
+    },
+    "minecraft:raw_iron": {
+      "points": 70
+    },
+    "minecraft:iron_ingot": {
+      "points": 100
+    },
+    "minecraft:raw_gold": {
+      "points": 100
+    },
+    "minecraft:gold_ingot": {
+      "points": 150
+    },
+    "minecraft:redstone": {
+      "points": 20
+    },
+    "minecraft:lapis_lazuli": {
+      "points": 20
+    },
+    "minecraft:quartz": {
+      "points": 50
+    },
+    "minecraft:diamond": {
+      "points": 2000
+    },
+    "minecraft:emerald": {
+      "points": 1200
+    },
+    "minecraft:ender_pearl": {
+      "points": 600
+    },
+    "minecraft:blaze_rod": {
+      "points": 400
+    },
+    "minecraft:netherite_ingot": {
+      "points": 30000
+    }
+  }
+}
